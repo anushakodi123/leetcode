@@ -24,7 +24,3 @@ q = TreeNode(1, TreeNode(2), TreeNode(3))
 
 result = Solution().isSameTree(p, q)
 print(result)
-
-
-
-        
